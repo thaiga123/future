@@ -1,0 +1,98 @@
+#main_heading{
+    text-align: center;
+    text-decoration: underline;
+    background: linear-gradient(to right, red, rgb(108, 108, 255), red);
+    color: white;
+    text-shadow: 1px 1px 1px black
+}
+
+#subheading_1{
+    margin-left: 20px;
+}
+
+#subheading_2{
+    margin-left: 20px;
+}
+
+#subheading_3{
+    margin-left: 20px;
+}
+
+#list_1{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 20px;
+    background-color: red;
+    color: white;
+    padding-right:20px;
+    padding-left:5px;
+    padding-bottom:5px;
+    padding-top:5px;
+    text-shadow: 1px 1px 1px black;
+}
+
+#list_2{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 20px;
+    background-color: blue;
+    color: white;
+    padding-right:20px;
+    padding-left:5px;
+    padding-bottom:5px;
+    padding-top:5px;
+    text-shadow: 1px 1px 1px black
+}
+
+#list_3{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 20px;
+    background-color: rgb(15, 141, 21);
+    color: white;
+    padding-right:20px;
+    padding-left:5px;
+    padding-bottom:5px;
+    padding-top:5px;
+    text-shadow: 1px 1px 1px black
+}
+
+#list_4{
+    display: inline-block;
+    margin-top: 5px;
+    margin-left: 20px;
+    background-color: orange;
+    color: white;
+    padding-right:20px;
+    padding-left:5px;
+    padding-bottom:5px;
+    padding-top:5px;
+    text-shadow: 1px 1px 1px black
+}
+
+body{
+    justify-content: center;
+    text-align: center;
+    background-color: black;
+}
+
+#image_1{
+    display: inline;
+    padding-top: 20px;
+}
+
+#last_text{
+    background: linear-gradient(to right, red, rgb(108, 108, 255), red);
+    color: white;
+    text-shadow: 1px 1px 1px black
+}
+
+button{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: white;
+    color: black;
+    font-family: cursive
+}
